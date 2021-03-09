@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Heba_Ayman_portfolio/precache-manifest.4edd1528d7445b52dd13252dcf88b6fd.js"
+  "/Heba_Ayman_portfolio/precache-manifest.6e5d1f973e451d168ed68cef2f028745.js"
 );
 
 self.addEventListener('message', (event) => {
